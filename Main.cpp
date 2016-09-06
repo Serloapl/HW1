@@ -11,7 +11,7 @@ void visualization(vector<vector< double> > A);
 
 vector<vector< double> > multiplication(vector<vector< double> > A, vector<vector< double> > B)
 {	//function for matrix multiplication
-
+	//example
 	int N_rows_A = A.size();
 	int N_cols_A = A[0].size();
 	int N_rows_B = B.size();
